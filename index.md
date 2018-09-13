@@ -49,17 +49,16 @@ je nach Usergroup 1-3 mal pro Quartal
 * Verschiedene Arten von Feedback-Methoden: 4 corner feedback			
 
 # Books & methods			
-* Matt Lemay: product managagement in practice	 https://www.amazon.com/Product-Management-Practice-Real-World-Connective/dp/1491982276
-* Roman Pichler: 'Strategize' und 'Agile Product Management with Scrum' https://www.romanpichler.com/romans-books/strategize/
-* Mihaly Csikszentmihalyi -> Flow im Beruf	https://www.amazon.de/Flow-Beruf-Geheimnis-Gl%C3%BCcks-Arbeitsplatz/dp/3608980415/
-* Friedemann Schulz von Thun: Miteinander reden -> 4 ears model	
-https://www.amazon.de/Miteinander-reden-Pers%C3%B6nlichkeitsentwicklung-situationsgerechte-Kommunikation/dp/3499628759/
+* Matt Lemay: [product managagement in practice](https://www.amazon.com/Product-Management-Practice-Real-World-Connective/dp/1491982276)
+* Roman Pichler: [Strategize](https://www.romanpichler.com/romans-books/strategize/) und 'Agile Product Management with Scrum' 
+* Mihaly Csikszentmihalyi: [Flow im Beruf](https://www.amazon.de/Flow-Beruf-Geheimnis-Gl%C3%BCcks-Arbeitsplatz/dp/3608980415/)
+* Friedemann Schulz von Thun: Miteinander reden -> 4 ears model	[Miteinander reden 1-4](https://www.amazon.de/Miteinander-reden-Pers%C3%B6nlichkeitsentwicklung-situationsgerechte-Kommunikation/dp/3499628759/)
 * Transaktionsanalyse			
 * Dale Carnegie: Bücher für PO zu Mensch Beziehung, wie mit Stakeholdern umgehen,
 * Marshall B. Rosenberg: Gewaltfreie Kommunikation			
 * Growth Hacking			
 * Design Thinking			
-* The Five Dysfunctions of a Team - Patrick Lencioni	https://www.amazon.de/Five-Dysfunctions-Team-Leadership-Fable/dp/8126522747/
+* [The Five Dysfunctions of a Team](https://www.amazon.de/Five-Dysfunctions-Team-Leadership-Fable/dp/8126522747/) - Patrick Lencioni	
 * Product Development Flow - Donald G. Reinertsen			
 * Jurgen Appelo: 'Managing for Happiness' und 'Management 3.0'			
 * Gojko Adzic: '50 Quick Ideas to..', 'Specification by Example', 'Impact Mapping'
@@ -67,8 +66,8 @@ https://www.amazon.de/Miteinander-reden-Pers%C3%B6nlichkeitsentwicklung-situatio
 * Eric Ries: Lean Startup			
 * Christopher Avery: The Responsibility Process			
 * Tom DeMarco: Peopleware			
-* Marty Cagan: Inspired	 https://www.amazon.de/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/
-* Alan Klement: When Coffee and Kale Compete (Jobs-to-be-Done) https://www.amazon.de/When-Coffee-Kale-Compete-products/dp/1534873066/
+* Marty Cagan: [Inspired]	(https://www.amazon.de/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) 
+* Alan Klement: [When Coffee and Kale Compete](https://www.amazon.de/When-Coffee-Kale-Compete-products/dp/1534873066/) (Jobs-to-be-Done) 
 
 # Podcasts			
 
